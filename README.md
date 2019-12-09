@@ -1,6 +1,6 @@
 # AIPersonalProject
 
-###TASK: Research Moore's Law
+### TASK: Research Moore's Law
 
 ##### When was it introduced?
 Moore's Law was introduced in a 1965 paper by Gordon Moore, the co-founder of Fairchild 
